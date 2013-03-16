@@ -1,5 +1,4 @@
 main: name.brychta.sqlwhitelist.SQLWhitelist
 name: SQLWhitelist
-version: 0.1
+version: 1.0
 author: Martin Brychta aka SirPole, [CZE]
-database: true
